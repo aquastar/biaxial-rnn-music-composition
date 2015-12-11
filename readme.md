@@ -11,4 +11,4 @@ You can read about its design and hear examples on [this blog post](http://www.h
 
 3, Have a test using biaxia_3rd_test.sh which can tell you if all the required things are ready or not.
 
-4, Run 'python main.py' and enjoy it. Optianlly, you can change the training data in 'music' folder all the things correctly
+4, Run 'python main.py' and enjoy it. Optianlly, you can change the training data in 'music' folder.
