@@ -6,5 +6,7 @@ You can read about its design and hear examples on [this blog post](http://www.h
 
 ## Requirements
 1 ,Try to run biaxia_1st_structur.sh e to automatically download and install required software
+
 2, Run biaxia_2nd_reboot.sh or manually reboot after installing
+
 3, Have a test using biaxia_3rd_test.sh which can tell you if you install all the things correctly
