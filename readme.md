@@ -16,4 +16,13 @@ You can read about its design and hear examples on [this blog post](http://www.h
 
 ## Result Files
 
-#asdf
+###classical music 
+biaxial-ori-result: under layer setting 300,300,100,50
+biaxial-lesslstm-result: under layer setting 200,200,75,35
+biaxial-leastlstm-result: under layer setting 100,100,50,25
+
+### Michael Jackson's Rock Music
+biaxial-ori-mj-result: under layer setting 300,300,100,50 
+
+### Secret Garden's Music
+biaxial-ori-secretgarden-result: under layer setting 300,300,100,50 
