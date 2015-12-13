@@ -2,7 +2,7 @@
 
 This code implements a recurrent neural network trained to generate classical music. The model, which uses LSTM layers and draws inspiration from convolutional neural networks, learns to predict which notes will be played at each time step of a musical piece.
 
-You can read about its design and hear examples on [this blog post](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/). 
+You can read about its design and hear examples on [this blog post](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/) by Daniel Johnson. 
 
 # Requirements
 1. Try to run `biaxia_1st_construct.sh` to automatically download and install required software
@@ -13,7 +13,7 @@ You can read about its design and hear examples on [this blog post](http://www.h
 
 #Result Folders (with ending `-result`)
 Inside result folders, 
-* param-x.p file means the model parameters after x times iterations.
+* ``param-x.p`` file means the model parameters after x times iterations.
 * sample-x.mid file indicates sample music generated after x times iterations, to get quick look at how well the model is.
 * x.jpg is the visualization extract from the sample-x.midi file, visaulization tool is at [here](http://qiao.github.io/euphony) .
 * *-composition-x.mid is the music composed by the final model.
