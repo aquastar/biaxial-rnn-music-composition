@@ -5,11 +5,11 @@ This code implements a recurrent neural network trained to generate classical mu
 You can read about its design and hear examples on [this blog post](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/) by Daniel Johnson. 
 
 # Requirements
-1. Try to run `biaxia_1st_construct.sh` to automatically download and install required software
-2. Run `biaxia_2nd_reboot.sh` or manually reboot after installing
+1. Try to run `biaxia_1st_construct.sh` to automatically download and install required software.
+2. Run `biaxia_2nd_reboot.sh` or manually reboot after installing.
 3. Have a test using `biaxia_3rd_test.sh` which can tell you if all the required things are ready or not.
-4. Collect you own training MIDI file data and put them into `music` folder
-5. Run `python main.py` and enjoy it. Optianlly, you can change the training data in `music` folder.
+4. Collect you own training MIDI file data and put them into `music` folder in the root folder.
+5. Run `python main.py` and enjoy it.
 
 
 #Result Folders (with ending `-result`)
