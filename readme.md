@@ -27,7 +27,7 @@ Inside `XXX-result` folders:
 
 ## Michael Jackson's Rock Music
 * `biaxial-ori-mj-result`: under layer setting 300,300,100,50 
-* `mj_composition-x.mid` is the music composed by the final model. However, only `mj_composition_1.mid` seems interesting.
+* `mj_composition[x].mid` is the music composed by the final model. However, only `mj_composition1.mid` seems interesting.
 
 ## Secret Garden's Music
 * `biaxial-ori-secretgarden-result`: under layer setting 300,300,100,50 
